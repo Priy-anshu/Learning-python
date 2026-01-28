@@ -13,7 +13,7 @@ __pycache__/
 *.png
 *.bmp
 *.tiff
-
+*.pdf
 # OS files
 .DS_Store
 
