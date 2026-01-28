@@ -1,0 +1,21 @@
+# Virtual environments
+cv-env/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Images (input & output)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
