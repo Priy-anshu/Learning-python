@@ -18,7 +18,7 @@ Learning-python/
 ├── talkingRobo.py           # Text-to-speech robot
 ├── weatherApp.py            # Weather information fetcher
 ├── resizeImage.py           # OpenCV image resizing script
-├── pdf_merger.py            # PDF merging script
+├── pdfMerger.py             # PDF merging script
 ├── .gitignore               # Ignored files/folders
 ├── requirements.txt         # Project dependencies
 └── README.md                # This file
@@ -75,8 +75,12 @@ How to Run Each Project
     •	Make sure your image file (e.g., priyanshu.jpeg) is in the project folder
 	•	Resized image is saved as newImage.png (or .jpg if changed)
 
-
-
+4️⃣ PDF Merger (pdfMerger.py)
+	•	Purpose: Merge multiple PDF files into a single PDF
+	•	Run:python pdfMerger.py
+	•	Usage:
+		•	Place PDF files in the project folder
+		•	Follow script instructions to select input files and output file name
 
 
 
