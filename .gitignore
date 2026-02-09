@@ -19,3 +19,8 @@ __pycache__/
 
 # Editor files
 .vscode/
+
+
+# persomal data
+*.csv
+*.pkl
